@@ -1,1 +1,1 @@
-# visualizaci-n-de-la-informaci-n
+# Visualización-de-la-información
